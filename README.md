@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... xx
 - 🤔 I’m looking for help with ... C#,
 - 💬 Ask me about ... About everything
-- Linkedin : https://www.linkedin.com/burhan-clkkl/
+- Linkedin : https://www.linkedin.com/in/burhan-clkkl
 - My First WebPage : https://trhiphopgundemi.com/index.html
 
 
