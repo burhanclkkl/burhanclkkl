@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ... C++, HTML, CSS, C#, 
-- 🌱 I’m currently learning ... C#, Java, Paython
+- 🌱 I’m currently learning ... C#, Java, Python
 - 👯 I’m looking to collaborate on ... xx
 - 🤔 I’m looking for help with ... C#,
 - 💬 Ask me about ... About everything
