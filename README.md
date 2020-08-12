@@ -1,19 +1,15 @@
-### Hi there My name is Burhan Çelikkol 👋  'GreenStable/Developer'
+### 'GreenStable/Developer' 
+### Hi there My name is Burhan Çelikkol 👋  
 
-<!--
-**burhanclkkl/BurhanClkkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+###  - 🔭 I’m currently working on ... C++, HTML, CSS, C#, 
+###  - 🌱 I’m currently learning ... C#, Java, Python
+###  - 💬 Ask me about ... About everything
 
-Here are some ideas to get you started:
+###  - Linkedin : https://www.linkedin.com/in/burhan-clkkl
+###  - My First WebPage : https://trhiphopgundemi.com/index.html
 
-
-
-
-- 🔭 I’m currently working on ... C++, HTML, CSS, C#, 
-- 🌱 I’m currently learning ... C#, Java, Python
-- 👯 I’m looking to collaborate on ... xx
-- 🤔 I’m looking for help with ... C#,
-- 💬 Ask me about ... About everything
-- Linkedin : https://www.linkedin.com/in/burhan-clkkl
-- My First WebPage : https://trhiphopgundemi.com/index.html
+###  - Listen Music --> Çağrı Sinci - Lobotomi // Groovypedia Studio Sessions ::: https://youtu.be/KHM67EpqwPA?list=RDKHM67EpqwPA
+###  - Listen Music --> FNo.1 - Çiçeklerde Bir Telaş Var (Official Video) ::: https://youtu.be/V5MxQSFsxS4
+###  - Listen Music --> Farazi & Kayra (Of Gına) - Çatımda Radyolar ::: https://www.youtube.com/watch?v=WfFpwt4nEo0
 
 
