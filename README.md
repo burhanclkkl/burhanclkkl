@@ -1,5 +1,4 @@
-###                                                                    'GreenStable/Developer' 
-###                                                              Hi there My name is Burhan Çelikkol 👋  
+### Hi there My name is Burhan Çelikkol 👋      ---  GreenStable/Developer  ---
 
   - 🔭 I’m currently working on ---> C++, HTML, CSS, C#, 
   - 🌱 I’m currently learning   ---> C#, Java, Python
