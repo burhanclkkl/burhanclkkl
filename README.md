@@ -6,7 +6,6 @@
 
   - Linkedin         ---> https://www.linkedin.com/in/burhan-clkkl
   - My First WebPage ---> https://trhiphopgundemi.com/index.html
-  
  
   - Listen Music --> Çağrı Sinci - Lobotomi // Groovypedia Studio Sessions   ::: https://youtu.be/KHM67EpqwPA?list=RDKHM67EpqwPA
   - Listen Music --> No.1 - Çiçeklerde Bir Telaş Var (Official Video)        ::: https://youtu.be/V5MxQSFsxS4
@@ -14,5 +13,6 @@
   - Listen Music --> Hayki - DELİ (prod. by EB) [PATRON DISSTRACK]           ::: https://www.youtube.com/watch?v=tNW6v8jQbeM
   - Listen Music --> Saian - Başıbozuk                                       ::: https://www.youtube.com/watch?v=kmVnP7B9Kd4
 
+Creative --> <a href="https://github.com/burhanclkkl">GitHub : Burhanclkkl</a>
 
-
+<img src="https://avatars3.githubusercontent.com/u/64730624?s=460&u=272ac3c3ea9d9173649eb8387f747d5dfc7b8655&v=4" width="350px" height="350px" margin="0;auto">
