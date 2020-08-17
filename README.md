@@ -15,4 +15,4 @@
 
 Creative --> <a href="https://github.com/burhanclkkl">GitHub : Burhanclkkl</a>
 
-<img src="https://avatars3.githubusercontent.com/u/64730624?s=460&u=272ac3c3ea9d9173649eb8387f747d5dfc7b8655&v=4" width="350px" height="350px" margin="0;auto">
+<img src="https://avatars3.githubusercontent.com/u/64730624?s=460&u=272ac3c3ea9d9173649eb8387f747d5dfc7b8655&v=4" width="350px" height="350px" style="margin:0;auto">
