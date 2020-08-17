@@ -1,12 +1,12 @@
 ### Hi there My name is Burhan Çelikkol 👋      ---  GreenStable/Developer  ---
-<hr color=green>
+<hr color="green">
  <br>- 🔭 I’m currently working on ---> C++, HTML, CSS, C#, 
  <br>- 🌱 I’m currently learning   ---> C#, Java, Python
  <br>- 💬 Ask me about             ---> About everything
-<hr color=red>
+<hr color="red">
  <br>- Linkedin         ---> https://www.linkedin.com/in/burhan-clkkl
  <br>- My First WebPage ---> https://trhiphopgundemi.com/index.html
-<hr color=blue>
+<hr color="blue">
  <br>- Listen Music --><a href="https://youtu.be/KHM67EpqwPA?list=RDKHM67EpqwPA"> Çağrı Sinci - Lobotomi // Groovypedia Studio Sessions <a>
  <br>- Listen Music --><a href="https://youtu.be/V5MxQSFsxS4"> No.1 - Çiçeklerde Bir Telaş Var (Official Video)  <a>
  <br>- Listen Music --><a href="https://www.youtube.com/watch?v=WfFpwt4nEo0"> Farazi & Kayra (Of Gına) - Çatımda Radyolar <a>
