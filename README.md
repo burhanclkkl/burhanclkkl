@@ -1,6 +1,6 @@
 ### Hi there My name is Burhan Çelikkol 👋      ---  GreenStable/Developer  ---
 <hr>
- <br>- 🔭 I’m currently working on ---> C++, HTML, CSS, C#, 
+ - 🔭 I’m currently working on ---> C++, HTML, CSS, C#, 
  <br>- 🌱 I’m currently learning   ---> C#, Java, Python
  <br>- 💬 Ask me about             ---> About everything
 <hr>
