@@ -15,6 +15,5 @@
 
 Creative --> <a href="https://github.com/burhanclkkl">GitHub : Burhanclkkl</a>
 
-<img src="https://cdn.r10.net/image.php?u=79265" width="250px" height="250px" float=left >
-<img src="https://media0.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="250px" height="250px" float=left>
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500px" height="500px">
 
