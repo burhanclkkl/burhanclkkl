@@ -16,7 +16,7 @@
  <br> - Listen Music --><a href="https://www.youtube.com/watch?v=hL4pKAqF4ng"> PMC Represents The UNDERGROUND </a>
  <br> - Listen Music --><a href="https://www.youtube.com/watch?v=r6OpYW-vT-Y"> Omzuna Al (feat. Saian) (Cuts by DJ Boba Fettt) </a>
 <hr>
- <p color="red"> ---  GreenStable/Developer  --- </p>
+ <p text-align="center"> ---  GreenStable/Developer  --- </p>
 
 
 
