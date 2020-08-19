@@ -1,12 +1,18 @@
 ### Hi there My name is Burhan Çelikkol 👋     
  <br> <img src="https://fantazya.org/wp-content/uploads/2016/01/eminem-gif">
- 
- <br>- 🔭 I’m currently working on ---> C++, HTML, CSS, C#, 
- <br>- 🌱 I’m currently learning   ---> C#, Java, Python
- <br>- 💬 Ask me about             ---> About everything
-<hr>
- - Linkedin         ---> https://www.linkedin.com/in/burhan-clkkl
+  - Linkedin         ---> https://www.linkedin.com/in/burhan-clkkl
  <br>- My First WebPage ---> https://trhiphopgundemi.com/index.html
+ 
+ <hr>
+  <br>- 🌱 I’m currently learning : 
+  <br>- C++    ---> +++
+  <br>- HTML   ---> +++++
+  <br>- CSS    ---> +++++
+  <br>- C#     ---> +++
+  <br>- Java   ---> -
+  <br>- Python ---> +
+<hr>
+
 <hr>
  - Listen Music --><a href="https://youtu.be/KHM67EpqwPA?list=RDKHM67EpqwPA"> Çağrı Sinci - Lobotomi // Groovypedia Studio Sessions  </a>
  <br>- Listen Music --><a href="https://youtu.be/V5MxQSFsxS4"> No.1 - Çiçeklerde Bir Telaş Var (Official Video)  </a>
@@ -16,7 +22,6 @@
  <br> - Listen Music --><a href="https://www.youtube.com/watch?v=hL4pKAqF4ng"> PMC Represents The UNDERGROUND </a>
  <br> - Listen Music --><a href="https://www.youtube.com/watch?v=r6OpYW-vT-Y"> Omzuna Al (feat. Saian) (Cuts by DJ Boba Fettt) </a>
 
- 
   <br><br>---  GreenStable/Developer  --- 
 
 
