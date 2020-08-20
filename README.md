@@ -9,7 +9,7 @@
   <br>- Java : -
   <br>- Python : +
   <hr>
-  <br> Linkedin ---> https://www.linkedin.com/in/burhan-clkkl
+  Linkedin ---> https://www.linkedin.com/in/burhan-clkkl
   <br> My First WebPage ---> https://trhiphopgundemi.com/index.html
 
 
