@@ -6,9 +6,9 @@ I'm learning:
 <br>
  * C++, HTML, CSS, C#, PYTHON
 
-<p align=center> <a href="https://github.com/burhanclkkl">  link: <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="100"> </a> 
-<a href="https://www.linkedin.com/in/burhan-clkkl/">   link: <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="100"> </a> 
-<a href="https://twitter.com/burhan_clkkl">   link: <img src="https://i.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.webp" width="80"> </a> </p>
+<p align=center> <a href="https://github.com/burhanclkkl">  link: <br><img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="100"> </a> 
+<a href="https://www.linkedin.com/in/burhan-clkkl/">   link:<br> <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="100"> </a> 
+<a href="https://twitter.com/burhan_clkkl">   link: <br><img src="https://i.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.webp" width="80"> </a> </p>
 
 <br>
  <p align=center>
