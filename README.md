@@ -1,6 +1,6 @@
 # Hi there My name is Burhan Çelikkol 👋🏻
 
-<p align=center><img align="center" src="https://trhiphopgundemi.com/green_stable.gif" width="450"></p>
+
 
 I'm learning:
 <br>
