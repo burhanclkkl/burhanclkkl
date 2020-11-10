@@ -10,4 +10,4 @@ I'm learning:
 <a href="https://www.linkedin.com/in/burhan-clkkl/">        <img src="https://play-lh.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" width="90" height="90">  </a>  
 <a href="https://www.kaggle.com/burhanclkkl">        <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" width="90" height="90"> </a>  
 
-<a href="https://www.kaggle.com/burhanclkkl">        <img src="https://img.shields.io/badge/-Linekdin-blue" width="90" height="90"> </a>  
+<a href="https://www.kaggle.com/burhanclkkl">        <img src="https://img.shields.io/badge/-Linekdin-blue" width="90" height="50"> </a>  
