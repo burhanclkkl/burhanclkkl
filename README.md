@@ -8,4 +8,4 @@ I'm learning:
  
 <p align=center> <a href="https://github.com/burhanclkkl"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="90" height="90"></a> 
 <a href="https://www.kaggle.com/burhanclkkl"><img src="https://www.kaggle.com/static/images/tiers/grandmaster@192.png" width="90" height="90"></a>  
-<p align=center> <a href="linkedin.com/in/burhan-clkkl"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="90" height="90"></a> 
+ <a href="linkedin.com/in/burhan-clkkl"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="90" height="90"></a> 
