@@ -8,4 +8,4 @@ I'm learning:
  
 GitHub  : <a href="https://github.com/burhanclkkl">https://github.com/burhanclkkl</a> <br>
 Kaggle : <a href="https://www.kaggle.com/burhanclkkl">https://www.kaggle.com/burhanclkkl</a>  <br>
-Linkedin : <a href="linkedin.com/in/burhan-clkkl"> linkedin.com/in/burhan-clkk</a> 
+Linkedin : <a href="linkedin.com/in/burhan-clkkl/"> linkedin.com/in/burhan-clkk/</a> 
